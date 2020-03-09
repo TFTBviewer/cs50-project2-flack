@@ -6,3 +6,5 @@ Chat for one host without CORS rules for other hosts. Host is a server, two clie
 
 
 trdt dfgkjhdf
+
+sdfsdf
